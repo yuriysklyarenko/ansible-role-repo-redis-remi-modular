@@ -1,0 +1,8 @@
+---
+##############################
+# Redis Stream Version
+#
+# Redis is distributed via Remi Module repositories
+# Versions available may be remi-5.0, remi-6.0, remi-6.2
+
+redis_stream_version: "remi-6.0"
